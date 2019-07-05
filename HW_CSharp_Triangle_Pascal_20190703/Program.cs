@@ -34,7 +34,7 @@ namespace HW_CSharp_Triangle_Pascal_20190703
             int x = 1;
             for (int i = 1; i <= n; i++)
                 x *= i;
-            return x;
+            return x;   
         }
     }
 }
